@@ -1,2 +1,2 @@
 # non_linear_ff
-Code for solving non-linear force-free neutran star magnetospheres
+Code for solving non-linear force-free neutron star magnetospheres
